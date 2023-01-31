@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on Open source projects.
 - 📫 How to reach me www.linkedin.com/in/thenishantroy
 
-CSE Freshman year student | Familiar with C, C++, Python and ML 
+CSE 3rd year in SSTC | Familiar with C, C++, Python and ML
 
-Experienced Personal Computer Technician skilled in Negotiation, Computer Repair, Microsoft Word, DaVinci Resolve, and Adobe Photoshop. Strong information technology professional with a Bachelor of Technology - BTech focused in Computer Software Engineering from Shri Shankaracharya Technical Campus Bhilai. 
+Experienced Personal Computer Technician skilled with 3+ yrs of Computer Repair along with up to 1 year of working with tech startups. Advanced knowledge of Python (Programming Language), Embedded Software, Web Development and Graphical User Interface (GUI). Strong information technology professional with a Bachelor of Technology - BTech focused in Computer Software Engineering from Shri Shankaracharya Technical Campus Bhilai.
